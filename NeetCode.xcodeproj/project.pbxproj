@@ -79,12 +79,20 @@
 		9864ED5D2FE3F27A00F0CFFD /* NeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				9864ED722FE4A4CF00F0CFFD /* ValidPalindrome */,
 				9864ED642FE40A3A00F0CFFD /* TwoSum.swift */,
-				9864ED662FE4193300F0CFFD /* ValidPalindrome.swift */,
 				9864ED5F2FE3F4C000F0CFFD /* ContainsDuplicate.swift */,
 				9864ED622FE3FA9D00F0CFFD /* ValidAnagram.swift */,
 			);
 			path = NeetCode;
+			sourceTree = "<group>";
+		};
+		9864ED722FE4A4CF00F0CFFD /* ValidPalindrome */ = {
+			isa = PBXGroup;
+			children = (
+				9864ED662FE4193300F0CFFD /* ValidPalindrome.swift */,
+			);
+			path = ValidPalindrome;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
