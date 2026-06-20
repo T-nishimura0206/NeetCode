@@ -42,7 +42,7 @@ class Solutio3 {
             }
             
             if !chars[right].isLetter && !chars[right].isNumber {
-                right += 1
+                right -= 1
                 continue
             }
             
