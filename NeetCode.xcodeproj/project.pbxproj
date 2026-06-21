@@ -16,6 +16,7 @@
 		9864ED652FE40A3A00F0CFFD /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9864ED642FE40A3A00F0CFFD /* TwoSum.swift */; };
 		9864ED672FE4193300F0CFFD /* ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9864ED662FE4193300F0CFFD /* ValidPalindrome.swift */; };
 		987926CE2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987926CD2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift */; };
+		987926D92FE7719A00B2EF98 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987926D82FE7719A00B2EF98 /* ValidParentheses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		9864ED642FE40A3A00F0CFFD /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		9864ED662FE4193300F0CFFD /* ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
 		987926CD2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimetoBuyandSellStock.swift; sourceTree = "<group>"; };
+		987926D82FE7719A00B2EF98 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,21 +83,14 @@
 		9864ED5D2FE3F27A00F0CFFD /* NeetCode */ = {
 			isa = PBXGroup;
 			children = (
-				9864ED722FE4A4CF00F0CFFD /* ValidPalindrome */,
 				9864ED642FE40A3A00F0CFFD /* TwoSum.swift */,
 				9864ED5F2FE3F4C000F0CFFD /* ContainsDuplicate.swift */,
 				9864ED622FE3FA9D00F0CFFD /* ValidAnagram.swift */,
 				987926CD2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift */,
-			);
-			path = NeetCode;
-			sourceTree = "<group>";
-		};
-		9864ED722FE4A4CF00F0CFFD /* ValidPalindrome */ = {
-			isa = PBXGroup;
-			children = (
+				987926D82FE7719A00B2EF98 /* ValidParentheses.swift */,
 				9864ED662FE4193300F0CFFD /* ValidPalindrome.swift */,
 			);
-			path = ValidPalindrome;
+			path = NeetCode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -174,6 +169,7 @@
 				9864ED652FE40A3A00F0CFFD /* TwoSum.swift in Sources */,
 				987926CE2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift in Sources */,
 				9864ED632FE3FA9D00F0CFFD /* ValidAnagram.swift in Sources */,
+				987926D92FE7719A00B2EF98 /* ValidParentheses.swift in Sources */,
 				9864ED602FE3F4C000F0CFFD /* ContainsDuplicate.swift in Sources */,
 				9864ED672FE4193300F0CFFD /* ValidPalindrome.swift in Sources */,
 				9864ED5B2FE3F26E00F0CFFD /* ContentView.swift in Sources */,
