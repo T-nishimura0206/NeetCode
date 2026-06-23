@@ -18,6 +18,7 @@
 		987926CE2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987926CD2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift */; };
 		987926D92FE7719A00B2EF98 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987926D82FE7719A00B2EF98 /* ValidParentheses.swift */; };
 		98D472522FE9330000B283B9 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D472512FE9330000B283B9 /* BinarySearch.swift */; };
+		98D472542FE956BF00B283B9 /* ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D472532FE956BF00B283B9 /* ReverseLinkedList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		987926CD2FE6010B00B2EF98 /* BestTimetoBuyandSellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimetoBuyandSellStock.swift; sourceTree = "<group>"; };
 		987926D82FE7719A00B2EF98 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		98D472512FE9330000B283B9 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
+		98D472532FE956BF00B283B9 /* ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				987926D82FE7719A00B2EF98 /* ValidParentheses.swift */,
 				9864ED662FE4193300F0CFFD /* ValidPalindrome.swift */,
 				98D472512FE9330000B283B9 /* BinarySearch.swift */,
+				98D472532FE956BF00B283B9 /* ReverseLinkedList.swift */,
 			);
 			path = NeetCode;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				98D472522FE9330000B283B9 /* BinarySearch.swift in Sources */,
 				9864ED632FE3FA9D00F0CFFD /* ValidAnagram.swift in Sources */,
 				987926D92FE7719A00B2EF98 /* ValidParentheses.swift in Sources */,
+				98D472542FE956BF00B283B9 /* ReverseLinkedList.swift in Sources */,
 				9864ED602FE3F4C000F0CFFD /* ContainsDuplicate.swift in Sources */,
 				9864ED672FE4193300F0CFFD /* ValidPalindrome.swift in Sources */,
 				9864ED5B2FE3F26E00F0CFFD /* ContentView.swift in Sources */,
