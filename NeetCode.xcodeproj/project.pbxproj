@@ -20,6 +20,8 @@
 		98D472522FE9330000B283B9 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D472512FE9330000B283B9 /* BinarySearch.swift */; };
 		98D472542FE956BF00B283B9 /* ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D472532FE956BF00B283B9 /* ReverseLinkedList.swift */; };
 		98D472632FEA89C900B283B9 /* MergeTwoSortedLinkedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D472622FEA89C900B283B9 /* MergeTwoSortedLinkedLists.swift */; };
+		98D472A02FF09CBF00B283B9 /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D4729F2FF09CBF00B283B9 /* InvertBinaryTree.swift */; };
+		98D472AD2FF2A8E800B283B9 /* MaximumDepthofBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D472AC2FF2A8E800B283B9 /* MaximumDepthofBinaryTree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		98D472512FE9330000B283B9 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		98D472532FE956BF00B283B9 /* ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedList.swift; sourceTree = "<group>"; };
 		98D472622FEA89C900B283B9 /* MergeTwoSortedLinkedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedLinkedLists.swift; sourceTree = "<group>"; };
+		98D4729F2FF09CBF00B283B9 /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
+		98D472AC2FF2A8E800B283B9 /* MaximumDepthofBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDepthofBinaryTree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				98D472512FE9330000B283B9 /* BinarySearch.swift */,
 				98D472532FE956BF00B283B9 /* ReverseLinkedList.swift */,
 				98D472622FEA89C900B283B9 /* MergeTwoSortedLinkedLists.swift */,
+				98D4729F2FF09CBF00B283B9 /* InvertBinaryTree.swift */,
+				98D472AC2FF2A8E800B283B9 /* MaximumDepthofBinaryTree.swift */,
 			);
 			path = NeetCode;
 			sourceTree = "<group>";
@@ -185,6 +191,8 @@
 				9864ED672FE4193300F0CFFD /* ValidPalindrome.swift in Sources */,
 				9864ED5B2FE3F26E00F0CFFD /* ContentView.swift in Sources */,
 				98D472632FEA89C900B283B9 /* MergeTwoSortedLinkedLists.swift in Sources */,
+				98D472A02FF09CBF00B283B9 /* InvertBinaryTree.swift in Sources */,
+				98D472AD2FF2A8E800B283B9 /* MaximumDepthofBinaryTree.swift in Sources */,
 				9864ED5C2FE3F26E00F0CFFD /* NeetCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
