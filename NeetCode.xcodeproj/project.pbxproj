@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		986416412FF3C5DD00C51D57 /* DiameterofBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 986416402FF3C5DD00C51D57 /* DiameterofBinaryTree.swift */; };
 		9864ED592FE3F26E00F0CFFD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9864ED532FE3F26E00F0CFFD /* Preview Assets.xcassets */; };
 		9864ED5A2FE3F26E00F0CFFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9864ED552FE3F26E00F0CFFD /* Assets.xcassets */; };
 		9864ED5B2FE3F26E00F0CFFD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9864ED562FE3F26E00F0CFFD /* ContentView.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		986416402FF3C5DD00C51D57 /* DiameterofBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiameterofBinaryTree.swift; sourceTree = "<group>"; };
 		9864ED412FE3F07600F0CFFD /* NeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9864ED532FE3F26E00F0CFFD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9864ED552FE3F26E00F0CFFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				98D472622FEA89C900B283B9 /* MergeTwoSortedLinkedLists.swift */,
 				98D4729F2FF09CBF00B283B9 /* InvertBinaryTree.swift */,
 				98D472AC2FF2A8E800B283B9 /* MaximumDepthofBinaryTree.swift */,
+				986416402FF3C5DD00C51D57 /* DiameterofBinaryTree.swift */,
 			);
 			path = NeetCode;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				98D472632FEA89C900B283B9 /* MergeTwoSortedLinkedLists.swift in Sources */,
 				98D472A02FF09CBF00B283B9 /* InvertBinaryTree.swift in Sources */,
 				98D472AD2FF2A8E800B283B9 /* MaximumDepthofBinaryTree.swift in Sources */,
+				986416412FF3C5DD00C51D57 /* DiameterofBinaryTree.swift in Sources */,
 				9864ED5C2FE3F26E00F0CFFD /* NeetCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
